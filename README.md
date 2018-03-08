@@ -1,0 +1,2 @@
+# subPlugin
+A test subPlugin
